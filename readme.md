@@ -15,7 +15,7 @@ Format: {author} pushed to {to_branch} on {timestamp}
 For PULL_REQUEST action:
 
 ```bash
-Format: {author} merged branch {from_branch} to {to_branch} on {timestamp}{author} submitted a pull request from {from_branch} to {to_branch} on
+Format:{author} submitted a pull request from {from_branch} to {to_branch} on
 {timestamp}
 ```
 
